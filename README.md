@@ -1,16 +1,27 @@
-## Hi there 👋
+**Amos Eyal**
 
-<!--
-**amoseyal/amoseyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity professional in development with a background in business operations, project management, real estate development, and data analysis.
 
-Here are some ideas to get you started:
+I am building this portfolio to document practical cybersecurity work across security operations, network security, risk assessment, incident response, and vulnerability management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cybersecurity Portfolio**
+
+Projects will be added here as they are completed and documented.
+
+**Areas of Focus**
+
+* Security operations and incident analysis
+
+* Network security and traffic analysis
+
+* Vulnerability assessment and remediation
+
+* Cybersecurity risk management
+
+* Identity and access management
+
+* Security frameworks and controls
+
+**Current Development**
+
+Building hands-on experience with cybersecurity tools, methodologies, and defensive security practices through structured labs and applied projects.
