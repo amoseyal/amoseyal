@@ -8,7 +8,15 @@ I build applied projects focused on cybersecurity risk, incident investigation, 
 
 ### Governance, Risk & Compliance
 
-#### [Meridian Risk Assessment](https://github.com/amoseyal/cybersecurity-portfolio)
+#### [Control Assurance Engine](https://github.com/amoseyal/control-assurance-engine)
+
+A Python-based cybersecurity GRC tool that evaluates structured security evidence against defined controls, distinguishes control exceptions from evidence-quality issues, maps findings to NIST CSF 2.0, applies risk scoring, and generates management-ready reporting.
+
+The project implements seven controls across identity and access management, endpoint security, and third-party risk, with automated evidence validation and a 74-test automated test suite.
+
+**Focus:** Python · pandas · pytest · GRC · Control Assurance · NIST CSF 2.0 · Risk Assessment
+
+#### [Meridian Risk Assessment](YOUR_EXISTING_LINK)
 
 A simulated cybersecurity risk assessment for a construction company covering security control evaluation, risk identification and prioritization, NIST Cybersecurity Framework and CIS Controls mapping, remediation planning, and executive reporting.
 
