@@ -26,6 +26,8 @@ A simulated cybersecurity risk assessment for a construction company covering se
 
 **Focus:** GRC · Risk Assessment · NIST CSF · CIS Controls · Security Controls
 
+---
+
 ### Incident Response & Investigation
 
 #### [Business Email Compromise Response](https://github.com/amoseyal/cybersecurity-portfolio/tree/main/02-business-email-compromise-response)
@@ -33,6 +35,8 @@ A simulated cybersecurity risk assessment for a construction company covering se
 A simulated Microsoft 365 business email compromise investigation covering identity and email activity, evidence analysis, incident scoping, containment and remediation, KQL-based investigation, and security framework mapping.
 
 **Focus:** Incident Response · Microsoft 365 · Entra ID · Exchange Online · KQL · BEC
+
+---
 
 ### Security Analytics & Detection Engineering
 
