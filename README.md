@@ -18,7 +18,7 @@ The project implements seven controls across identity and access management, end
 
 **[View Live Management Report](https://amoseyal.github.io/control-assurance-engine/)**
 
-#### [Meridian Risk Assessment]([YOUR_EXISTING_LINK](https://github.com/amoseyal/cybersecurity-portfolio/tree/main/01-meridian-risk-assessment))
+#### [Meridian Risk Assessment](https://github.com/amoseyal/cybersecurity-portfolio/tree/main/01-meridian-risk-assessment)
 
 A simulated cybersecurity risk assessment for a construction company covering security control evaluation, risk identification and prioritization, NIST Cybersecurity Framework and CIS Controls mapping, remediation planning, and executive reporting.
 
