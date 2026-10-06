@@ -42,9 +42,9 @@ A simulated Microsoft 365 business email compromise investigation covering ident
 
 #### [Authentication Anomaly Analyzer](https://github.com/amoseyal/auth-anomaly-analyzer)
 
-A Python-based security analytics tool that analyzes authentication logs for brute-force activity, password spraying, and successful logins following repeated authentication failures.
+A Python-based security analytics tool that analyzes authentication logs to detect brute-force activity, password spraying, and suspicious successful logins through time-window analysis and event correlation.
 
-The project includes rule-based detection logic, time-window correlation, CSV validation and reporting, a command-line interface, and a 14-test automated unit and integration test suite.
+The project produces structured security alerts for investigation and reporting and includes authentication-log validation, a command-line interface, CSV export, and a 14-test automated unit and integration test suite.
 
 **Focus:** Python · pandas · Detection Engineering · Authentication Security · Log Analysis · pytest
 
