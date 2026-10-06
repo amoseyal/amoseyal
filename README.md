@@ -16,7 +16,7 @@ The project implements seven controls across identity and access management, end
 
 **Focus:** Python · pandas · pytest · GRC · Control Assurance · NIST CSF 2.0 · Risk Assessment
 
-[View Live Management Report](https://amoseyal.github.io/control-assurance-engine/)
+**[View Live Management Report](https://amoseyal.github.io/control-assurance-engine/)**
 
 ---
 
