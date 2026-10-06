@@ -12,9 +12,11 @@ I build applied projects focused on cybersecurity risk, incident investigation, 
 
 A Python-based cybersecurity GRC tool that evaluates structured security evidence against defined controls, distinguishes control exceptions from evidence-quality issues, maps findings to NIST CSF 2.0, applies risk scoring, and generates management-ready reporting.
 
-The project implements seven controls across identity and access management, endpoint security, and third-party risk, with automated evidence validation and a 74-test automated test suite.
+The project implements seven controls across identity and access management, endpoint security, and third-party risk, with automated evidence validation, executive-level HTML reporting and visual analysis, and an 83-test automated test suite.
 
 **Focus:** Python · pandas · pytest · GRC · Control Assurance · NIST CSF 2.0 · Risk Assessment
+
+**[View Live Management Report](https://amoseyal.github.io/control-assurance-engine/)**
 
 #### [Meridian Risk Assessment](YOUR_EXISTING_LINK)
 
