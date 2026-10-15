@@ -50,8 +50,6 @@ The project produces structured security alerts for investigation and reporting 
 
 **[View Live Report](https://amoseyal.github.io/auth-anomaly-analyzer/)**
 
----
-
 ## Data Analytics
 
 ### [U.S. Airline Performance Analysis](https://github.com/amoseyal/us-airline-performance-analysis)
