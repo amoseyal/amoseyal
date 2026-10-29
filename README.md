@@ -6,6 +6,22 @@ I build applied projects focused on cybersecurity risk, incident investigation, 
 
 ## Cybersecurity Portfolio
 
+### Security Analytics & Detection Engineering
+
+#### [Authentication Anomaly Analyzer](https://github.com/amoseyal/auth-anomaly-analyzer)
+
+A Python-based security analytics tool that analyzes authentication logs to identify brute-force activity, password spraying, and successful logins following repeated authentication failures through configurable time-window analysis and event correlation.
+
+The project features configurable detection thresholds and analysis windows, authentication-log validation, structured security alerts, investigation timelines, supporting evidence, and a dark-themed HTML security dashboard with severity indicators and analyst interpretation.
+
+Version 2.0.0 includes a command-line interface, CSV export, automated HTML reporting, and a **99-test automated test suite**.
+
+**Focus:** Python · pandas · pytest · Security Analytics · Detection Engineering · Authentication Security · Log Analysis
+
+**[View Live Security Report](https://amoseyal.github.io/auth-anomaly-analyzer/)**
+
+---
+
 ### Governance, Risk & Compliance
 
 #### [Control Assurance Engine](https://github.com/amoseyal/control-assurance-engine)
@@ -35,20 +51,6 @@ A simulated cybersecurity risk assessment for a construction company covering se
 A simulated Microsoft 365 business email compromise investigation covering identity and email activity, evidence analysis, incident scoping, containment and remediation, KQL-based investigation, and security framework mapping.
 
 **Focus:** Incident Response · Microsoft 365 · Entra ID · Exchange Online · KQL · BEC
-
----
-
-### Security Analytics & Detection Engineering
-
-#### [Authentication Anomaly Analyzer](https://github.com/amoseyal/auth-anomaly-analyzer)
-
-A Python-based security analytics tool that analyzes authentication logs to detect brute-force activity, password spraying, and suspicious successful logins through time-window analysis and event correlation.
-
-The project produces structured security alerts for investigation and reporting and includes authentication-log validation, a command-line interface, CSV export, and a 14-test automated unit and integration test suite.
-
-**Focus:** Python · pandas · Detection Engineering · Authentication Security · Log Analysis · pytest
-
-**[View Live Report](https://amoseyal.github.io/auth-anomaly-analyzer/)**
 
 ## Data Analytics
 
